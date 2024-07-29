@@ -1,0 +1,15 @@
+.treeAeromatix .treeboxDetail {
+    background-color: initial;
+    border: none;
+    border-radius: 5px;
+    box-shadow: inset 0 0 35px 3px rgba(255, 184, 149, .36);
+    color: #fff;
+    height: 100%;
+    padding: 20px;
+    text-align: left;
+}
+
+*, :after, :before {
+    box-sizing: border-box;
+}
+
